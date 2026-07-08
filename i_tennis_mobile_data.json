@@ -1,0 +1,37 @@
+{
+  "version": "I-Tennis Mobile 1.1",
+  "updated_at": "サンプルデータ",
+  "activities": [
+    {
+      "date": "2026/07/05",
+      "time": "19:00",
+      "place": "岩田運動公園",
+      "kind": "🎾 練習",
+      "memo": "サンプル予定"
+    },
+    {
+      "date": "2026/07/14",
+      "time": "20:35",
+      "place": "サーラ",
+      "kind": "🎾 練習",
+      "memo": "夜練習"
+    }
+  ],
+  "tournament_dates": [
+    {
+      "date": "2026/07/05",
+      "display_title": "ナイターダブルス",
+      "area": "豊橋",
+      "type": "ダブルス",
+      "url": ""
+    },
+    {
+      "date": "2026/07/26",
+      "display_title": "チーム対抗",
+      "area": "豊橋",
+      "type": "団体戦",
+      "url": ""
+    }
+  ],
+  "favorites": []
+}
